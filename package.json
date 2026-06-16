@@ -3,10 +3,9 @@
   "version": "1.0.0",
   "scripts": {
     "test": "playwright test",
-    "report": "npx allure-commandline generate allure-results --clean -o allure-report && npx allure-commandline open allure-report"
+    "report": "playwright show-report"
   },
   "devDependencies": {
-    "@playwright/test": "^1.61.0",
-    "allure-playwright": "^3.0.0"
+    "@playwright/test": "^1.61.0"
   }
 }

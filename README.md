@@ -21,5 +21,6 @@ npx playwright test
 ## Отчёт
 
 ```bash
-npm run report
+npm test          # запустить тесты
+npm run report    # открыть HTML-отчёт с трейсингом в браузере
 ```
