@@ -17,3 +17,9 @@ npm install
 npx playwright install chromium
 npx playwright test
 ```
+
+## Отчёт
+
+```bash
+npm run report
+```
