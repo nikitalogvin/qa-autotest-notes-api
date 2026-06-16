@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","63","GET /notes без токена — 401 Unauthorized","","2026-06-16","passed","2026-06-16","","autotest.spec.ts","",""
+"","958","POST /users/register — успешная регистрация","","2026-06-16","passed","2026-06-16","","autotest.spec.ts","",""
+"","485","POST /notes — создание записи, order_id отсутствует в ответе (BUG-04)","","2026-06-16","passed","2026-06-16","","autotest.spec.ts","",""
