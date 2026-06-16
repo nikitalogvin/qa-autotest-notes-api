@@ -1,0 +1,10 @@
+{
+  "name": "qa-autotest-notes-api",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.61.0"
+  }
+}
